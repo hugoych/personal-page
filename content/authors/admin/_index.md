@@ -92,7 +92,7 @@ languages:
   - name: German
     percent: 20
 
-
+---
 ## About Me
 
 I'm Hugo, a last year PhD Student in Machine Learning at ETH Zürich. I'm supervised by [Prof. Gunnar Rätsch](todo) as part of the [Biomedical Informatics lab (BMI)](todo). My main area of research focus on advancing deep learning methods for event detection in multivariate time series. I work on healthcare application around patient monitoring in the Intensive care unit (ICU). 

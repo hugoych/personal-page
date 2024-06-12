@@ -73,7 +73,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: TODO
+    summary: '6 months internship on self-supervised learning for patient in the intensive care unit. Following that internship, I started a PhD in the lab on the same topic.'
 
   - position: ML Research Intern
     company_name: Imagia
@@ -81,7 +81,7 @@ work:
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: TODO
+    summary: 'End of master internship on interpretability in machine learning. Lead to my first publication at MICCAI's interpretability workshop on concept activation vectors.'
 
 
 languages:

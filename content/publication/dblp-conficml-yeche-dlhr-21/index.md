@@ -6,6 +6,11 @@ authors:
 - Francesco Locatello
 - Matthias Hüser
 - Gunnar Rätsch
+
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 date: '2021-01-01'
 publishDate: '2024-06-12T13:23:59.484804Z'
 publication_types:

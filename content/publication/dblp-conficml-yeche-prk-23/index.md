@@ -30,6 +30,7 @@ url_slides: ''
 url_source: ''
 url_video: https://slideslive.com/39003602/temporal-label-smoothing-for-early-event-prediction?ref=speaker-89235
 
+featured: true
 
 image:
   caption: 'Illustration of the effect of TLS with stronger smoothing as we move away from the event.'

@@ -2,8 +2,8 @@
 title: HiRID-ICU-Benchmark - A Comprehensive Machine Learning Benchmark on High-resolution
   ICU Data
 authors:
-- admin
-- Rita Kuznetsova
+- Hugo Yèche * 
+- Rita Kuznetsova *
 - Marc Zimmermann
 - Matthias Hüser
 - Xinrui Lyu

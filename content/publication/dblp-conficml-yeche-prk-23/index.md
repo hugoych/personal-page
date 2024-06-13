@@ -1,8 +1,8 @@
 ---
 title: Temporal Label Smoothing for Early Event Prediction
 authors:
-- admin
-- Alizée Pace
+- Hugo Yèche *
+- Alizée Pace *
 - Gunnar Rätsch
 - Rita Kuznetsova
 date: '2023-01-01'

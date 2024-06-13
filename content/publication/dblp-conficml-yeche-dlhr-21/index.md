@@ -40,6 +40,8 @@ tags:
 url_pdf: http://proceedings.mlr.press/v139/yeche21a.html
 url_code: https://github.com/ratschlab/ncl
 
+featured: true
+
 image:
   caption: 'Illustration of the adversial objective of NCL'
   focal_point: ''

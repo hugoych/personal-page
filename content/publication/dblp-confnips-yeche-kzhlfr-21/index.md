@@ -34,7 +34,7 @@ url_slides: ''
 url_source: ''
 url_video: https://slideslive.com/38969428/hiridicubenchmark-a-comprehensive-machine-learning-benchmark-on-highresolution-icu-data?ref=recommended
 
-featured: False
+featured: True
 
 image:
   caption: 'Description of the different tasks we propose in HiB'

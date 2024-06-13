@@ -1,7 +1,7 @@
 ---
 title: Dynamic Survival Analysis for Early Event Prediction
 authors:
-- Hugo Yèche
+- admin
 - Manuel Burger
 - Dinara Veshchezerova
 - Gunnar Rätsch

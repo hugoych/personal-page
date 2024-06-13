@@ -1,7 +1,7 @@
 ---
 title: Neighborhood Contrastive Learning Applied to Online Patient Monitoring
 authors:
-- admin *
+- **Hugo Yèche** *
 - Gideon Dresdner *
 - Francesco Locatello
 - Matthias Hüser

@@ -12,7 +12,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2021-01-01'
-publishDate: '2024-06-12T13:23:59.484804Z'
+publishDate: '2021-03-12T13:23:59.484804Z'
 publication_types:
 - paper-conference
 publication: 'In *ICML 2021*'
@@ -34,7 +34,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: https://slideslive.com/38959104/neighborhood-contrastive-learning-applied-to-online-patient-monitoring?ref=speaker-16441
 
 featured: true
 

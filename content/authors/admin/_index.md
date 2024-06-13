@@ -61,7 +61,7 @@ education:
     date_start: 2018-01-01
     date_end: 2019-12-31
 
-  - area: Engineer Degree 
+  - area: Engineering Degree 
     institution: Télécom Paris
     date_start: 2016-01-01
     date_end: 2019-12-31

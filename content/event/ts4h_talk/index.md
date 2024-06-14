@@ -2,17 +2,17 @@
 title: TS4H@ICLR Oral
 
 event: TS4H@ICLR
-event_url: https://example.org
+event_url: https://timeseriesforhealth.github.io/
 
-location: https://timeseriesforhealth.github.io/
+location: 
 address:
   city: Vienna
 
-summary: We got to give a talk at the TS4h workshop at ICLR 2024 to present our Paper on Dynamic Survival Analysis for Early Event Prediction.
+summary: We got to give a talk at the TS4H workshop at ICLR 2024 to present our Paper on Dynamic Survival Analysis for Early Event Prediction.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-01T13:00:00Z'
+date: '2024-05-11T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

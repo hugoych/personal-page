@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: liquid-cheese.svg
+          filename: spectrum-gradient(1).svg
           filters:
             brightness: 1.0
           size: cover

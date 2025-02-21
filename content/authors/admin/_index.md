@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student in Machine Learning
+role: PhD Graduate in Machine Learning
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -45,8 +45,9 @@ profiles:
     url: https://orcid.org/0000-0001-8599-542X
 
 interests:
-  - Machine Learning
-  - Healthcare
+  - Machine Learning for Healthcare
+  - Foundation Models
+  - Time Series
   - Event Prediction
   - Representation Learning
 
@@ -96,4 +97,4 @@ languages:
 ---
 ## About Me
 
-I'm Hugo, a last year PhD Student in Machine Learning at ETH Zürich. I'm supervised by [Prof. Gunnar Rätsch](https://bmi.inf.ethz.ch/people/person/gunnar-raetsch) as part of the [Biomedical Informatics lab (BMI)](https://bmi.inf.ethz.ch/). My main area of research focus on advancing deep learning methods for event detection in multivariate time series. I work on healthcare application around patient monitoring in the Intensive care unit (ICU). 
+I'm Hugo, a ML Researcher in Machine Learning at ETH Zürich. I just defended my thesis under the supervision of [Prof. Gunnar Rätsch](https://bmi.inf.ethz.ch/people/person/gunnar-raetsch) as part of the [Biomedical Informatics lab (BMI)](https://bmi.inf.ethz.ch/). My main area of research focus on advancing deep learning methods for event detection in multivariate time series. I work on healthcare application around patient monitoring in the Intensive care unit (ICU). 
